@@ -70,17 +70,13 @@ main div {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .image-overlay {
     width: 100%;
     height: 100%;
-    background-color: red;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.image-overlay:hover {
-    
 }
